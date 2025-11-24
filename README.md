@@ -1,4 +1,6 @@
 # mindflunk - A Brainfck Interpreter
+<b>[24 Nov 2025] Project no longer in development and will be available in archive mode only</b>
+
 A simple Brainfck interpreter implemented in two different ways.  <br/>
 
 <strong>Implementation </strong>  <br/>
@@ -29,4 +31,3 @@ And also b'cuz Brainfluck is easy to implement!     </i>
 </pre>
 
 I'd Love to hear edits, suggestions, and your contribution. <br/>
-<b>Note: Project no longer in development and will be available in archive mode only</b>
