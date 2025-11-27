@@ -1,5 +1,5 @@
 # mindfck - A Brainfck Interpreter
-<b> Project no longer in active development and will be available as a Public Archive only. (24/11/2025)</b>
+<b> Project no longer in active development and will be available as a Public Archive only. (28/11/2025)</b>
 
 A simple Brainfck interpreter implemented in two different ways.  <br/>
 
